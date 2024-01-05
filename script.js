@@ -1,4 +1,3 @@
-{
     // Función para inicializar la pestaña activa
     function initializeActiveTab() {
         var defaultTab = document.getElementsByClassName("tablinks")[0];
